@@ -13,6 +13,7 @@ The originals were taken from the Valve Developer Community, but then were alter
 - VBSP
 - VDF
 - VMT
+- RES 
 
 ### Also include scripts for the following file types, which must be selected manually
 - Talker
