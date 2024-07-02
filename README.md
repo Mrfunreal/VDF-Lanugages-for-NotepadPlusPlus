@@ -25,3 +25,13 @@ The originals were taken from the Valve Developer Community, but then were alter
 # Install Instructions
 Download this repo and paste all "vdf-******.xml" files into **AppData\Roaming\Notepad++\userDefineLangs**<br>
 *You can get to the "userDefineLangs" folder using Notepad++. Click on "Language - User Defined Language - Open User Defined Language folder"*
+
+# Screenshots
+<img src="Img\cfg.jpg" width=500/>
+<img src="Img\qc.jpg" width=500/>
+<img src="Img\res.jpg" width=500/>
+<img src="Img\rules.jpg" width=500/>
+<img src="Img\smd.jpg" width=500/>
+<img src="Img\soundscape.jpg" width=500/>
+<img src="Img\vbsp.jpg" width=500/>
+<img src="Img\vmt.jpg" width=500/>
