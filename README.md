@@ -23,7 +23,7 @@ The originals were taken from the Valve Developer Community, but then were alter
 - "Misc" (Not really useful, but it was in the original release, so I re-used it here)
 
 # Install Instructions
-Download this repo and paste all "vdf-******.xml" files into **AppData\Roaming\Notepad++\userDefineLangs**<br>
+Download this repo and paste all "vdf-******.xml" files into **%appdata%/Notepad++\userDefineLangs**<br>
 *You can get to the "userDefineLangs" folder using Notepad++. Click on "Language - User Defined Language - Open User Defined Language folder"*
 
 # Screenshots
