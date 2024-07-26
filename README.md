@@ -35,3 +35,6 @@ Download this repo and paste all "vdf-******.xml" files into **%appdata%/Notepad
 <img src="Img\soundscape.jpg" width=500/>
 <img src="Img\vbsp.jpg" width=500/>
 <img src="Img\vmt.jpg" width=500/>
+
+Supports dark theme. Black text may be funny with too dark backgrounds.
+<img src="Img\npp_qc_light_and_dark.jpg" width=500/>
