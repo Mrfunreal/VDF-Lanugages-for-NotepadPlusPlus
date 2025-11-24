@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="VDF: CFG - Dark" ext="cfg" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="yes" Keywords5="no" Keywords6="no" Keywords7="yes" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">00// 01 02 03 04</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1">* ;</Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open">{</Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close">}</Keywords>
+            <Keywords name="Folders in code2, open"></Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close"></Keywords>
+            <Keywords name="Folders in comment, open"></Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close"></Keywords>
+            <Keywords name="Keywords1">echo</Keywords>
+            <Keywords name="Keywords2">alt&#x000D;&#x000A;app&#x000D;&#x000A;apps&#x000D;&#x000A;aux0&#x000D;&#x000A;aux1&#x000D;&#x000A;aux10&#x000D;&#x000A;aux11&#x000D;&#x000A;aux12&#x000D;&#x000A;aux13&#x000D;&#x000A;aux14&#x000D;&#x000A;aux15&#x000D;&#x000A;aux16&#x000D;&#x000A;aux17&#x000D;&#x000A;aux18&#x000D;&#x000A;aux19&#x000D;&#x000A;aux2&#x000D;&#x000A;aux20&#x000D;&#x000A;aux21&#x000D;&#x000A;aux22&#x000D;&#x000A;aux23&#x000D;&#x000A;aux24&#x000D;&#x000A;aux25&#x000D;&#x000A;aux26&#x000D;&#x000A;aux27&#x000D;&#x000A;aux28&#x000D;&#x000A;aux29&#x000D;&#x000A;aux3&#x000D;&#x000A;aux30&#x000D;&#x000A;aux31&#x000D;&#x000A;aux32&#x000D;&#x000A;aux4&#x000D;&#x000A;aux5&#x000D;&#x000A;aux6&#x000D;&#x000A;aux7&#x000D;&#x000A;aux8&#x000D;&#x000A;aux9&#x000D;&#x000A;A_BUTTON&#x000D;&#x000A;BACK&#x000D;&#x000A;backspace&#x000D;&#x000A;B_BUTTON&#x000D;&#x000A;capslock&#x000D;&#x000A;ctrl&#x000D;&#x000A;del&#x000D;&#x000A;downarrow&#x000D;&#x000A;end&#x000D;&#x000A;enter&#x000D;&#x000A;escape&#x000D;&#x000A;f1&#x000D;&#x000A;f10&#x000D;&#x000A;f11&#x000D;&#x000A;f12&#x000D;&#x000A;f2&#x000D;&#x000A;f3&#x000D;&#x000A;f4&#x000D;&#x000A;f5&#x000D;&#x000A;f6&#x000D;&#x000A;f7&#x000D;&#x000A;f8&#x000D;&#x000A;f9&#x000D;&#x000A;home&#x000D;&#x000A;ins&#x000D;&#x000A;joy0&#x000D;&#x000A;joy1&#x000D;&#x000A;joy10&#x000D;&#x000A;joy11&#x000D;&#x000A;joy12&#x000D;&#x000A;joy13&#x000D;&#x000A;joy14&#x000D;&#x000A;joy15&#x000D;&#x000A;joy16&#x000D;&#x000A;joy17&#x000D;&#x000A;joy18&#x000D;&#x000A;joy19&#x000D;&#x000A;joy2&#x000D;&#x000A;joy20&#x000D;&#x000A;joy21&#x000D;&#x000A;joy22&#x000D;&#x000A;joy23&#x000D;&#x000A;joy24&#x000D;&#x000A;joy25&#x000D;&#x000A;joy26&#x000D;&#x000A;joy27&#x000D;&#x000A;joy28&#x000D;&#x000A;joy29&#x000D;&#x000A;joy3&#x000D;&#x000A;joy30&#x000D;&#x000A;joy31&#x000D;&#x000A;joy32&#x000D;&#x000A;joy4&#x000D;&#x000A;joy5&#x000D;&#x000A;joy6&#x000D;&#x000A;joy7&#x000D;&#x000A;joy8&#x000D;&#x000A;joy9&#x000D;&#x000A;kp_5&#x000D;&#x000A;kp_add&#x000D;&#x000A;kp_del&#x000D;&#x000A;kp_downarrow&#x000D;&#x000A;kp_end&#x000D;&#x000A;kp_enter&#x000D;&#x000A;kp_home&#x000D;&#x000A;kp_ins&#x000D;&#x000A;kp_leftarrow&#x000D;&#x000A;kp_minus&#x000D;&#x000A;kp_multiply&#x000D;&#x000A;kp_pgdn&#x000D;&#x000A;kp_pgup&#x000D;&#x000A;kp_plus&#x000D;&#x000A;kp_rightarrow&#x000D;&#x000A;kp_slash&#x000D;&#x000A;kp_uparrow&#x000D;&#x000A;leftarrow&#x000D;&#x000A;lwin&#x000D;&#x000A;L_SHOULDER&#x000D;&#x000A;mouse1&#x000D;&#x000A;mouse2&#x000D;&#x000A;mouse3&#x000D;&#x000A;mouse4&#x000D;&#x000A;mouse5&#x000D;&#x000A;mwheeldown&#x000D;&#x000A;mwheelup&#x000D;&#x000A;numlock&#x000D;&#x000A;pause&#x000D;&#x000A;pgdn&#x000D;&#x000A;pgup&#x000D;&#x000A;pov_down&#x000D;&#x000A;pov_left&#x000D;&#x000A;pov_right&#x000D;&#x000A;pov_up&#x000D;&#x000A;prntscrn&#x000D;&#x000A;ralt&#x000D;&#x000A;rctrl&#x000D;&#x000A;rightarrow&#x000D;&#x000A;rshift&#x000D;&#x000A;rwin&#x000D;&#x000A;R_SHOULDER&#x000D;&#x000A;scrolllock&#x000D;&#x000A;semicolon&#x000D;&#x000A;shift&#x000D;&#x000A;space&#x000D;&#x000A;START&#x000D;&#x000A;STICK1&#x000D;&#x000A;STICK2&#x000D;&#x000A;tab&#x000D;&#x000A;uparrow&#x000D;&#x000A;X_BUTTON&#x000D;&#x000A;Y_BUTTON</Keywords>
+            <Keywords name="Keywords3">toggle incrementvar bind bindtoggle alias exec ent_fire host_timescale buddha god</Keywords>
+            <Keywords name="Keywords4">cl_ m_ net_ nav_ snd_ sv_ z_ joy_ budget_ mat_ director_ fog_ nb_ r_ sb_ script_ fps_max sc_ c_ cam_ cc_ vr_ hud_</Keywords>
+            <Keywords name="Keywords5">unbindall unbind quit con_enable banid banip ent_remove ent_remove_all exit explode kill kick killserver kickid kick_transitioning killvector</Keywords>
+            <Keywords name="Keywords6"></Keywords>
+            <Keywords name="Keywords7">+alt1&#x000D;&#x000A;+alt2&#x000D;&#x000A;+attack&#x000D;&#x000A;+attack2&#x000D;&#x000A;+back&#x000D;&#x000A;+break&#x000D;&#x000A;+camdistance&#x000D;&#x000A;+camin&#x000D;&#x000A;+cammousemove&#x000D;&#x000A;+camout&#x000D;&#x000A;+campitchdown&#x000D;&#x000A;+campitchup&#x000D;&#x000A;+camyawleft&#x000D;&#x000A;+camyawright&#x000D;&#x000A;+commandermousemove&#x000D;&#x000A;+demoui2&#x000D;&#x000A;+duck&#x000D;&#x000A;+forward&#x000D;&#x000A;+graph&#x000D;&#x000A;+grenade1&#x000D;&#x000A;+grenade2&#x000D;&#x000A;+invaction&#x000D;&#x000A;+jlook&#x000D;&#x000A;+jump&#x000D;&#x000A;+klook&#x000D;&#x000A;+left&#x000D;&#x000A;+lookdown&#x000D;&#x000A;+lookspin&#x000D;&#x000A;+lookup&#x000D;&#x000A;+mat_texture_list&#x000D;&#x000A;+menuAccept&#x000D;&#x000A;+menuDown&#x000D;&#x000A;+menuUp&#x000D;&#x000A;+mouse_menu&#x000D;&#x000A;+movedown&#x000D;&#x000A;+moveleft&#x000D;&#x000A;+moveright&#x000D;&#x000A;+moveup&#x000D;&#x000A;+posedebug&#x000D;&#x000A;+reload&#x000D;&#x000A;+resetcamera&#x000D;&#x000A;+right&#x000D;&#x000A;+score&#x000D;&#x000A;+showbudget&#x000D;&#x000A;+showbudget_texture&#x000D;&#x000A;+showbudget_texture_global&#x000D;&#x000A;+showscores&#x000D;&#x000A;+showvprof&#x000D;&#x000A;+speed&#x000D;&#x000A;+strafe&#x000D;&#x000A;+use&#x000D;&#x000A;+vgui_drawtree&#x000D;&#x000A;+voicerecord&#x000D;&#x000A;+walk&#x000D;&#x000A;+zoom&#x000D;&#x000A;+mouseMenu&#x000D;&#x000A;-alt1&#x000D;&#x000A;-alt2&#x000D;&#x000A;-attack&#x000D;&#x000A;-attack2&#x000D;&#x000A;-back&#x000D;&#x000A;-break&#x000D;&#x000A;-camdistance&#x000D;&#x000A;-camin&#x000D;&#x000A;-cammousemove&#x000D;&#x000A;-camout&#x000D;&#x000A;-campitchdown&#x000D;&#x000A;-campitchup&#x000D;&#x000A;-camyawleft&#x000D;&#x000A;-camyawright&#x000D;&#x000A;-commandermousemove&#x000D;&#x000A;-demoui2&#x000D;&#x000A;-duck&#x000D;&#x000A;-forward&#x000D;&#x000A;-graph&#x000D;&#x000A;-grenade1&#x000D;&#x000A;-grenade2&#x000D;&#x000A;-invaction&#x000D;&#x000A;-jlook&#x000D;&#x000A;-jump&#x000D;&#x000A;-klook&#x000D;&#x000A;-left&#x000D;&#x000A;-lookdown&#x000D;&#x000A;-lookspin&#x000D;&#x000A;-lookup&#x000D;&#x000A;-mat_texture_list&#x000D;&#x000A;-menuAccept&#x000D;&#x000A;-menuDown&#x000D;&#x000A;-menuUp&#x000D;&#x000A;-mouse_menu&#x000D;&#x000A;-movedown&#x000D;&#x000A;-moveleft&#x000D;&#x000A;-moveright&#x000D;&#x000A;-moveup&#x000D;&#x000A;-posedebug&#x000D;&#x000A;-reload&#x000D;&#x000A;-resetcamera&#x000D;&#x000A;-right&#x000D;&#x000A;-score&#x000D;&#x000A;-showbudget&#x000D;&#x000A;-showbudget_texture&#x000D;&#x000A;-showbudget_texture_global&#x000D;&#x000A;-showscores&#x000D;&#x000A;-showvprof&#x000D;&#x000A;-speed&#x000D;&#x000A;-strafe&#x000D;&#x000A;-use&#x000D;&#x000A;-vgui_drawtree&#x000D;&#x000A;-voicerecord&#x000D;&#x000A;-walk&#x000D;&#x000A;-zoom</Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&quot; 01 02&quot; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="000000" bgColor="FFFFFF" colorStyle="0" fontStyle="0" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="7F9F7F" bgColor="FFFFFF" colorStyle="1" fontStyle="3" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="7F9F7F" bgColor="FFFFFF" colorStyle="1" fontStyle="3" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="6AC8FF" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="65ADFE" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="FFB366" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="B366FF" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="499FFE" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="FF7777" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="008000" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="FF53A9" bgColor="FFFFFF" colorStyle="1" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="ADAD5C" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="000000" bgColor="FFFFFF" colorStyle="0" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="CC9393" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="67369984" />
+            <WordsStyle name="DELIMITERS2" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
